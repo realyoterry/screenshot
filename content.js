@@ -2,11 +2,12 @@
 var startX, startY, endX, endY;
 var selectionBox = document.createElement("div");
 
-selectionBox.style.position = "fixed";
+selectionBox.style.position = "absolute";
 selectionBox.style.border = "2px dashed red";
 selectionBox.style.background = "rgba(255, 0, 0, 0.2)";
 selectionBox.style.zIndex = "9999";
 selectionBox.style.pointerEvents = "none";
+selectionBox.style.margin = 0;
 
 document.body.appendChild(selectionBox);
 document.addEventListener("mousedown", mouseDown);
