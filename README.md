@@ -8,7 +8,7 @@ This extension captures full screen by using Chrome's built-in `captureVisibleTa
 
 Here's a video preview of the extension:
 
-![Preview](https://github.com/user-attachments/assets/a26102ad-142f-4677-bf84-8b3151b4339a)
+https://github.com/user-attachments/assets/a26102ad-142f-4677-bf84-8b3151b4339a
 
 ---
 
